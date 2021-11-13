@@ -1,0 +1,62 @@
+\documentclass[12pt]{article}
+\title{Article Reviews re. Opportunities and Limitations in Machine Translation Evaluation for Neural Machine Translation
+}
+\author{Tom Keane}
+\date{\today}
+\usepackage{biblatex}
+\usepackage{hyperref}
+
+\addbibresource{articlereviews.bib} 
+
+\begin{document}
+	\maketitle
+	
+	I have elected to review the following two articles with regards to Opportunities and Limitations in Machine Translation Evaluation for Neural Machine Translation
+	
+	1. - Indices of cognitive effort in machine translation post-editing \cite{10.2307/44113775}
+	
+	2. - Eye tracking as an MT evaluation technique \cite{EyeTracking}\\\\
+%
+	The reviews will consist of a brief overview of the motivations,  goals, the methodologies, results expressed in the articles, separately.\\*
+	 The findings and conclusions of both articles will then be discussed in relation to each other, and in relation to Opportunities and Limitations in 
+	 MT Evaluation for NMT.
+	
+	\section{Summaries}
+		\subsection{Indices of cognitive effort in machine translation post-editing}
+			The purpose expressed in this article is finding methods to assess the cognitive difficulty in the post-editing (PE) process of machine translations (MT), based on three textual variables and various individual factors relevant to the post-editor:\\*
+			These were the source text (ST), the raw MT output, and the emerging target text (TT), as textual features, and individual features such as working memory capacity (WMC) and source language (SL) proficiency.\\*
+			The features that were selected were based on \textcite{Kittredge2002KringsHP}, which established the three textual features relevant to PE used in this study.\\*
+			
+			The Utility of the study is stated as that PE can increase productivity, improve translation quality, therefore establishing reliable estimations of MT quality and PE effort are of interest in the field, and are problems worth solving.
+			Working Memory Capacity's relevance as an individual's post editing ability is considered in \textcite{10.1007/978-3-642-32612-7_1}.\\
+			
+			This study found that according three mixed effect models of: Meteor (a semantics-based automatic evaluation metric)\cite{denkowski-lavie-2011-meteor}, Sentence length, prepositional phrases and PC3 (a principal component model based on various established Linguistic and psycholinguistic features).
+			Meteor was found tho be highly statistically significant in three models, which implies that the textual features outlined above can be used to assess PE difficulty, which can be of great use when estimating MT quality and PE pricing schemes.\\*
+			It was also found that more effort was required to process sentences of ST by those with low SL proficiency. This article suggests that this may allow PE to be done by those with low SL proficiency \cite{10.2307/44113775}(5.1).\\* This claim is bolstered by \textcite{comm}, which shows that blind PE can lead to promising gains in MT fluency, regardless of the professional status of the post-editors.\\*
+			It was also shown that WMC is positively linked to PE productivity. This is a similar result to \textcite{10.2307/23359419}, which found that WMC has a positive impact on monolingual reviewing.
+		
+		\subsection{Eye tracking as an MT evaluation technique}
+			This paper details a preliminary study regarding the use of eye tracking as a method to evaluate the output from a machine translation.
+			The primary research questions are established in the introduction.
+			\begin{quote}
+				\label{sec:objective2}
+				"To what extent does eye tracking data reflect the quality of MT output as rated by human evaluators? And, related to this question,could eye tracking potentially be used as a tool for semi-automatically measuring MT quality?"
+				\cite{EyeTracking} (introduction)
+			\end{quote}
+			It is also stated that this research may give insights into unobtrusive recording of MT reading effort, which could "supplement or confirm automatic evaluation metrics."
+			\cite{EyeTracking}(introduction)\\
+			
+			A number of MT-outputs were pre-rated as "good" or "bad" on a scale of 1 - 4 by human evaluators.
+			This study found that on average, 45\% more gaze-time was spent looking at bad sentences than good sentences and that sentences with higher than average fixation counts were more likely to be bad.
+			
+			
+	\section{Comparative}
+	Indices of cognitive effort in machine translation post-editing\cite{10.2307/44113775} had quite a broad range of objectives as stated above. It was shown that based on the variables outlined above in the summary, it was found that based on eye tracking data that PE cognitive difficulty may be more accurately assessed. Based on the number of references cited, and the length and detail of the background and procedure, it is clear that a lot of research went into this paper.
+	It is very information heavy, however and the results and discussion is difficult to parse. a greater degree of \textbf{cognitive effort} was required to understand these sections, compared to \textcite{EyeTracking}'s paper. \\*
+	Eye tracking as an MT evaluation technique\cite{EyeTracking} is a shorter paper, and much more readable for it. It is quite easy to understand the results and discussion and how it relates to the conclusion and findings. This may be in part due to a lower complexity in the \hyperref[sec:objective2]{stated objective} of the paper, which is not necessarily a bad thing.
+	The paper concludes that in general gaze time and fixation count have convincing correlations with PE difficulty, whereas pupil dilation and fixation duration do not. It is also concluded that further investigation is warranted regarding the \hyperref[sec:objective2]{second question posed}.
+	The paper then goes on to briefly speculate about the possibilities regarding the use of eye tracking methods to assess MT quality for the end user, which suggests cheaper large scale possibilities for the concept.
+	 
+	In conclusion, these are two well written and well researched papers of different character in their density and readability, though both achieve to make progress on their stated objectives, which offers value to MT development. 
+	\printbibliography
+\end{document}

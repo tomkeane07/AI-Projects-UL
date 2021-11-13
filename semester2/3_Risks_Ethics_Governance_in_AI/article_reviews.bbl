@@ -1,0 +1,312 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{denkowski-lavie-2011-meteor}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=f51163918dde828300de0f3744623324}{%
+           family={Denkowski},
+           familyi={D\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b1ffa393a913fbcab4c0074cc07754c5}{%
+           family={Lavie},
+           familyi={L\bibinitperiod},
+           given={Alon},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Edinburgh, Scotland}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{f707eddabf0cde54246c913e1e12d1bc}
+      \strng{fullhash}{f707eddabf0cde54246c913e1e12d1bc}
+      \strng{bibnamehash}{f707eddabf0cde54246c913e1e12d1bc}
+      \strng{authorbibnamehash}{f707eddabf0cde54246c913e1e12d1bc}
+      \strng{authornamehash}{f707eddabf0cde54246c913e1e12d1bc}
+      \strng{authorfullhash}{f707eddabf0cde54246c913e1e12d1bc}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Sixth Workshop on Statistical Machine Translation}
+      \field{month}{7}
+      \field{title}{Meteor 1.3: Automatic Metric for Reliable Optimization and Evaluation of Machine Translation Systems}
+      \field{year}{2011}
+      \field{pages}{85\bibrangedash 91}
+      \range{pages}{7}
+      \verb{urlraw}
+      \verb https://www.aclweb.org/anthology/W11-2107
+      \endverb
+      \verb{url}
+      \verb https://www.aclweb.org/anthology/W11-2107
+      \endverb
+    \endentry
+    \entry{EyeTracking}{article}{}
+      \name{author}{3}{}{%
+        {{hash=63e3b01cfb46b69133032ea9227a675b}{%
+           family={Doherty},
+           familyi={D\bibinitperiod},
+           given={Stephen},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2e6a656248ecbeb32e768d7163dc476a}{%
+           family={Brien},
+           familyi={B\bibinitperiod},
+           given={Sharon},
+           giveni={S\bibinitperiod}}}%
+        {{hash=4d6145b01a37f09b776a102b47d6c1da}{%
+           family={Carl},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{13a7e05d09a59cd94893f94d8e257a33}
+      \strng{fullhash}{13a7e05d09a59cd94893f94d8e257a33}
+      \strng{bibnamehash}{13a7e05d09a59cd94893f94d8e257a33}
+      \strng{authorbibnamehash}{13a7e05d09a59cd94893f94d8e257a33}
+      \strng{authornamehash}{13a7e05d09a59cd94893f94d8e257a33}
+      \strng{authorfullhash}{13a7e05d09a59cd94893f94d8e257a33}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Machine Translation}
+      \field{month}{03}
+      \field{title}{Eye tracking as an Automatic MT Evaluation Technique}
+      \field{volume}{24}
+      \field{year}{2010}
+      \field{pages}{1\bibrangedash 13}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1007/s10590-010-9070-9
+      \endverb
+    \endentry
+    \entry{Kittredge2002KringsHP}{article}{}
+      \name{author}{1}{}{%
+        {{hash=fc48ac62276d2d81f3116a2285465815}{%
+           family={Kittredge},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{fc48ac62276d2d81f3116a2285465815}
+      \strng{fullhash}{fc48ac62276d2d81f3116a2285465815}
+      \strng{bibnamehash}{fc48ac62276d2d81f3116a2285465815}
+      \strng{authorbibnamehash}{fc48ac62276d2d81f3116a2285465815}
+      \strng{authornamehash}{fc48ac62276d2d81f3116a2285465815}
+      \strng{authorfullhash}{fc48ac62276d2d81f3116a2285465815}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Meta: Translators' Journal}
+      \field{title}{Krings, Hans P. (2001): Repairing Texts: Empirical Investigations of Machine Translation Post-Editing Processes (Geoffrey S. Koby, ed.), The Kent State University Press, Kent, Ohio \& London, 558 p.}
+      \field{volume}{47}
+      \field{year}{2002}
+      \field{pages}{435\bibrangedash 436}
+      \range{pages}{2}
+    \endentry
+    \entry{10.1007/978-3-642-32612-7_1}{inproceedings}{}
+      \name{author}{7}{}{%
+        {{hash=bd3163c2b76ec17674fedd162233edd0}{%
+           family={Lehmann},
+           familyi={L\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod}}}%
+        {{hash=5ce89740d534447c133cafe56654d11e}{%
+           family={Gottesman},
+           familyi={G\bibinitperiod},
+           given={Ben},
+           giveni={B\bibinitperiod}}}%
+        {{hash=6b1ed606f42276906f8f14bf25e72fbe}{%
+           family={Grabowski},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6902602d4991aca762222df8d58c373a}{%
+           family={Kudo},
+           familyi={K\bibinitperiod},
+           given={Mayo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=57b29a093679f458722091c22e6945ec}{%
+           family={Lo},
+           familyi={L\bibinitperiod},
+           given={Siu\bibnamedelimb Kei\bibnamedelima Pepe},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=18f36aa3a768e80e47b7e1aad8dd3d5f}{%
+           family={Siegel},
+           familyi={S\bibinitperiod},
+           given={Melanie},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7c89e12f7140663258be6f8c7304d0b7}{%
+           family={Fouvry},
+           familyi={F\bibinitperiod},
+           given={Frederik},
+           giveni={F\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=74d3522e91542051f26a4f98e94e2dc2}{%
+           family={Kuhn},
+           familyi={K\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod}}}%
+        {{hash=a632d0bae1c19c288294b13f6cb8a931}{%
+           family={Fuchs},
+           familyi={F\bibinitperiod},
+           given={Norbert\bibnamedelima E.},
+           giveni={N\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Berlin Heidelberg}%
+      }
+      \strng{namehash}{698c830f80680fd52a582a755a24e0f7}
+      \strng{fullhash}{d2b0b394dfb8e224e58e93cdd769d6a0}
+      \strng{bibnamehash}{698c830f80680fd52a582a755a24e0f7}
+      \strng{authorbibnamehash}{698c830f80680fd52a582a755a24e0f7}
+      \strng{authornamehash}{698c830f80680fd52a582a755a24e0f7}
+      \strng{authorfullhash}{d2b0b394dfb8e224e58e93cdd769d6a0}
+      \strng{editorbibnamehash}{472b43f93240f1e61c985bad4357b886}
+      \strng{editornamehash}{472b43f93240f1e61c985bad4357b886}
+      \strng{editorfullhash}{472b43f93240f1e61c985bad4357b886}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Machine translation (MT) is most often used for texts of publishable quality. However, there is increasing interest in providing translations of user-generated content in customer forums. This paper describes research towards addressing this challenge by automatically improving the quality of community forum data to improve MT results.}
+      \field{booktitle}{Controlled Natural Language}
+      \field{isbn}{978-3-642-32612-7}
+      \field{title}{Applying CNL Authoring Support to Improve Machine Translation of Forum Data}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+    \endentry
+    \entry{10.2307/23359419}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c8fe9cd9d2db4bf48a19a9377e069551}{%
+           family={McCutchen},
+           familyi={M\bibinitperiod},
+           given={Deborah},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{c8fe9cd9d2db4bf48a19a9377e069551}
+      \strng{fullhash}{c8fe9cd9d2db4bf48a19a9377e069551}
+      \strng{bibnamehash}{c8fe9cd9d2db4bf48a19a9377e069551}
+      \strng{authorbibnamehash}{c8fe9cd9d2db4bf48a19a9377e069551}
+      \strng{authornamehash}{c8fe9cd9d2db4bf48a19a9377e069551}
+      \strng{authorfullhash}{c8fe9cd9d2db4bf48a19a9377e069551}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The review examines ways in which working memory contributes to individual and particularly to developmental differences in writing skill. It begins with a brief definition of working memory and then summarizes current debates regarding working memory and capacity theories in the field of reading. It is argued that a capacity theory of writing can provide a framework within which to consider the development of writing skill, and relevant data are discussed. Effects of capacity limitations are documented in all three component writing processes: planning, translating, and reviewing.}
+      \field{issn}{1040726X, 1573336X}
+      \field{journaltitle}{Educational Psychology Review}
+      \field{number}{3}
+      \field{title}{A Capacity Theory of Writing: Working Memory in Composition}
+      \field{volume}{8}
+      \field{year}{1996}
+      \field{pages}{299\bibrangedash 325}
+      \range{pages}{27}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/23359419
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/23359419
+      \endverb
+    \endentry
+    \entry{comm}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{hash=2e6319df76196f3040d7ca78f2befd4b}{%
+           family={Mitchell},
+           familyi={M\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=1ef461538914557bf81f25a1090961ce}{%
+           family={Roturier},
+           familyi={R\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2f84d58bf5832457834082a00e8d0d60}{%
+           family={O’Brien},
+           familyi={O\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4f3e3224ab59f8bac6e42f1644d8e529}
+      \strng{fullhash}{4f3e3224ab59f8bac6e42f1644d8e529}
+      \strng{bibnamehash}{4f3e3224ab59f8bac6e42f1644d8e529}
+      \strng{authorbibnamehash}{4f3e3224ab59f8bac6e42f1644d8e529}
+      \strng{authornamehash}{4f3e3224ab59f8bac6e42f1644d8e529}
+      \strng{authorfullhash}{4f3e3224ab59f8bac6e42f1644d8e529}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mitchell L, Roturier J, O’Brien S (2013) Community-based post-editing of machine-translated content:monolingual vs. bilingual. In: O’Brien S, Simard M, Specia L (eds) Proceedings of machine tranlationsummit XIV Workshop on Post-Editing Technology and Practice (WPTP2), 2 Sept 2013, Nice, pp35–43}
+    \endentry
+    \entry{10.2307/44113775}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9545e3d2b8ecf4dce9d1575cccf9cf48}{%
+           family={Vieira},
+           familyi={V\bibinitperiod},
+           given={Lucas\bibnamedelima Nunes},
+           giveni={L\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9545e3d2b8ecf4dce9d1575cccf9cf48}
+      \strng{fullhash}{9545e3d2b8ecf4dce9d1575cccf9cf48}
+      \strng{bibnamehash}{9545e3d2b8ecf4dce9d1575cccf9cf48}
+      \strng{authorbibnamehash}{9545e3d2b8ecf4dce9d1575cccf9cf48}
+      \strng{authornamehash}{9545e3d2b8ecf4dce9d1575cccf9cf48}
+      \strng{authorfullhash}{9545e3d2b8ecf4dce9d1575cccf9cf48}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Identifying indices of effort in post-editing of machine translation can have a number of applications, including estimating machine translation quality and calculating post-editors' pay rates. Both source-text and machine-output features as well as subjects' traits are investigated here in view of their impact on cognitive effort, which is measured with eye tracking and a subjective scale borrowed from the field of Educational Psychology. Data is analysed with mixed-effects models, and results indicate that the semantics-based automatic evaluation metric Meteor is significantly correlated with all measures of cognitive effort considered. Smaller effects are also observed for source-text linguistic features. Further insight is provided into the role of the source text in post-editing, with results suggesting that consulting the source text is only associated with how cognitively demanding the task is perceived in the case of those with a low level of proficiency in the source language. Subjects' working memory capacity was also taken into account and a relationship with post-editing productivity could be noticed. Scaled-up studies into the construct of working memory capacity and the use of eye tracking in models for quality estimation are suggested as future work.}
+      \field{issn}{09226567, 15730573}
+      \field{journaltitle}{Machine Translation}
+      \field{number}{3/4}
+      \field{title}{Indices of cognitive effort in machine translation post-editing}
+      \field{volume}{28}
+      \field{year}{2014}
+      \field{pages}{187\bibrangedash 216}
+      \range{pages}{30}
+      \verb{urlraw}
+      \verb http://www.jstor.org/stable/44113775
+      \endverb
+      \verb{url}
+      \verb http://www.jstor.org/stable/44113775
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

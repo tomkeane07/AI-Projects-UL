@@ -1,0 +1,15 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[0] Config.pm:314> INFO - Logfile is 'article_reviews.blg'
+[115] biber-MSWIN64:340> INFO - === 
+[155] Biber.pm:415> INFO - Reading 'article_reviews.bcf'
+[270] Biber.pm:952> INFO - Found 7 citekeys in bib section 0
+[285] Biber.pm:4340> INFO - Processing section 0
+[298] Biber.pm:4531> INFO - Looking for bibtex format file 'articlereviews.bib' for section 0
+[357] bibtex.pm:1689> INFO - LaTeX decoding ...
+[370] bibtex.pm:1494> INFO - Found BibTeX data source 'articlereviews.bib'
+[452] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[452] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[452] Biber.pm:4168> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[452] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-US'
+[464] bbl.pm:654> INFO - Writing 'article_reviews.bbl' with encoding 'UTF-8'
+[469] bbl.pm:757> INFO - Output to article_reviews.bbl
